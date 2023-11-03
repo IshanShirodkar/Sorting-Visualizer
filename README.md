@@ -2,6 +2,8 @@
 
 Sorting Visualizer is a web-based application built with React that allows users to visualize various sorting algorithms in real-time. It is designed to help users understand how sorting algorithms work by providing a visual representation of their operations.
 
+[Screenshot1](https://github.com/IshanShirodkar/Sorting-Visualizer/blob/main/Screenshots/Screenshot%202023-11-03%20161025.png)
+
 ## Demo
 [Github Pages](https://ishanshirodkar.github.io/Sorting-Visualizer/)
 
