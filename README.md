@@ -102,4 +102,4 @@ Sorting Visualizer was inspired by other sorting algorithm visualization project
 
 
 ## Feedback
-If you have any questions or feedback about Sorting Visualizer, please reach out to me at ishanshirodkar@gmail.com.
+Any sort of feedback is greatly appreciated, please reach out to me at ishanshirodkar@gmail.com.
