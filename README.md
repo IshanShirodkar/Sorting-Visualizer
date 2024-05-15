@@ -40,8 +40,7 @@ Sorting Visualizer is a project that aims to make sorting algorithms more access
 
 -  *Real-time Visualization:* Visualize popular sorting algorithms in real-time, allowing you to see how they work step by step.
 -  *Customizable:* Choose the speed of the visualization to match your preference and adjust the number of elements in the array to be sorted.
--  *Clear and Reset: *Clear the current visualization and start over with a new array.
--  *Educational:* Get detailed explanations alongside the visualization to help users learn and understand the algorithms.
+-  *Clear and Reset:*Clear the current visualization and start over with a new array.
 
 
 ## Installation
